@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
 
 
-## I'm a Computer Science Engineering Student, Frontend Developer, Competitive Coder(@sidhartha001), Content Creator!!
+## I'm a Computer Science Engineering Student!
 - ✍ You can find my projects here [portfolio]
 - 🌱 I’m currently learning React Native and Azure
 - 👯 I’m looking to collaborate on open source
