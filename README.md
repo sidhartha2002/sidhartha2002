@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidhartha2002&show_icons=true&locale=en" alt="sidhartha2002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidhartha2002&" alt="sidhartha2002" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sidhartha2002&&row=2&column=-1&&theme=onedark)](https://github.com/sidhartha2002/github-profile-trophy)
