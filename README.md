@@ -1,4 +1,4 @@
-![MasterHead](https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230127-chatgpt-coding-le-1212-d31c75.jpg)
+![linkedIn Banner](https://github.com/sidhartha2002/sidhartha2002/assets/73163725/891c497c-6f9b-4958-ba49-ee05ecc15f00)
 
 <h1 align="center">Hi 👋, I'm Sidhartha Mohanty</h1>
 <h3 align="center">A passionate FRONTEND DEVELOPER</h3>
