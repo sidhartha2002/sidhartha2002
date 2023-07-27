@@ -5,9 +5,7 @@
 <img align="right" alt="coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidhartha2002&label=Profile%20views&color=0e75b6&style=flat" alt="sidhartha2002" /> </p>
 
-- 🔭 I’m currently **Learning JS, React and Next.js**
-
-- 🌱 I’m currently learning **Javascript, React.js**
+- 🔭 I’m currently **Learning `JS`, `React.js` & `Next.js`**
 
 - ⚡ Fun fact **I'm Funny and Talkative**
 
