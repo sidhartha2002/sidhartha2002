@@ -1,6 +1,5 @@
 ![linkedIn Banner](https://github.com/sidhartha2002/sidhartha2002/assets/73163725/891c497c-6f9b-4958-ba49-ee05ecc15f00)
 
-
 <h1 align="center">Hi 👋, I'm Sidhartha Mohanty</h1>
 <h3 align="center">A passionate 🚀FRONTEND DEVELOPER</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidhartha2002&label=Profile%20views&color=0e75b6&style=flat" alt="sidhartha2002" /> </p>
