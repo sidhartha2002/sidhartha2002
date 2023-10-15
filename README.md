@@ -20,6 +20,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sidhartha2002&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+## 🔥Hacktoberfest Badges
+[![An image of @sidhartha2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sidhartha2002)](https://holopin.io/@sidhartha2002)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
